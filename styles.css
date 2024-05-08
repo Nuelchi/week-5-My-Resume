@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card {
+    background-color: rgb(209, 133, 40);
+    padding: 250px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    height: 100%
+}
+
+#image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    }
+    .top {
+        color: white;
+        font-weight: bold;
+        font-family: great vibes;
+        font-size: 60px;
+
+    }
+    .great-vibes-regular {
+        font-family: "Great Vibes", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .tip{
+        color: white;
+        font-size: 20px;
+      }
+      .header{
+        text-align: center;
+        margin: auto;
+        margin-left: 50px;
+        margin-top: 10%;
+        margin-bottom: 20px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+
+      .text{
+        margin: 20px;
+        margin-left: 25px;
+        padding: 15px;
+      }
+      #name {
+        margin-bottom: 20px;
+      }
+      .boxcontainer{
+        display: flex;
+        margin-right: 3px;
+        margin-left: 20px;
+        font-family: candara light;
+        justify-content: space-between;
+        
+      }
+      #text2{
+        margin: auto;
+        padding: 40px;
+        width: 800px;
+      }
+      .cont{
+        margin-top: 20px;
+      }
+      .wrapper{
+        font-size: x-large;
+        margin-top: 15px;
+
+      }
+      .wrapper2{
+        color: white;
+        margin: 20px;
+        font-size: large;
+      }
+      .header2{
+        text-align: center;
+        margin: auto;
+        margin-left: 50px;
+        margin-top: 10%;
+        margin-bottom: 50px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+      .subhead{
+        text-align: center;
+        margin: 43%;
+        width: 17%;
+        margin-top: 10%;
+        margin-bottom: 50px;
+        font-size: medium;
+        background-color: rgba(128, 128, 128, 0.295);
+        font-family:font-family: candara light;
+      }
