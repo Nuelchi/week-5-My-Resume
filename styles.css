@@ -22,9 +22,11 @@
         color: white;
         font-weight: bold;
         font-family: great vibes;
-        font-size: 60px;
-
+        font-size: 50px;
+        transform: rotate(-5deg);
+        margin: 15px;
     }
+    
     .great-vibes-regular {
         font-family: "Great Vibes", cursive;
         font-weight: 400;
