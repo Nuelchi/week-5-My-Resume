@@ -90,6 +90,7 @@
       .subhead{
         text-align: center;
         margin: 43%;
+        margin-bottom: 0%;
         width: 17%;
         margin-top: 10%;
         margin-bottom: 50px;
@@ -97,3 +98,60 @@
         background-color: rgba(128, 128, 128, 0.295);
         font-family:font-family: candara light;
       }
+
+      .headercontainer {
+        border-right: 2px solid rgba(128, 128, 128, 0.603);
+        margin-top: -3.7%;
+        padding: 30px;
+        margin-bottom: 20px;
+       width: 50%;
+       text-align: right;
+      }
+      .circle {
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        background-color:rgb(248, 94, 5) ;
+        right: -2.9rem;
+        position: absolute;
+        top: -0.4rem;
+      }
+
+      .description {
+        padding-left: 3rem;
+      }
+      .company-item{
+        display: flex;
+        justify-content: flex-end;
+        position: relative;
+        margin-bottom: 10px;
+        margin-top: 10px;
+      }
+      .text{
+        padding: 5px;
+      }
+    .company{
+      display: flex;
+      position: relative;
+      padding-left: 3rem;
+    }
+
+    .headercontainer2 {
+      border: 2px solid rgba(128, 128, 128, 0.603);
+      margin-top: -3.7%;
+      padding: 30px;
+      margin-bottom: 20px;
+     width: 50%;
+     text-align: right;
+     display: flex;
+     align-self: flex-end;
+     flex-direction:column ;
+    }
+    .company-item2 {
+      display: flex;
+      justify-content: flex-end;
+      position: relative;
+      margin-bottom: 10px;
+      margin-top: 10px;
+    }
+    
